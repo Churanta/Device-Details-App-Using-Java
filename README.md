@@ -15,6 +15,10 @@ This Android app displays various details about your device such as the device n
 
 ## Screenshots
 
+
+https://user-images.githubusercontent.com/83538805/235363767-02fdd3a3-a532-4fa1-a90d-7f31bf49795a.mp4
+
+
 ![Screenshot 1](screenshots/screenshot1.jpeg)
 
 ## Built With
