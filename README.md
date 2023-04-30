@@ -15,7 +15,7 @@ This Android app displays various details about your device such as the device n
 
 ## Download the App 👇
 
-- [Download](app/build/outputs/apk/debug/app-debug.apk)
+- [Download](https://drive.google.com/file/d/1mLZU1muKZicnneSnL2gEfURGm4e6JVM1/view?usp=share_link)
 - app/build/outputs/apk/debug/app-debug.apk
 
 ## Screenshots
