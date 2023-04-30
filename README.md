@@ -15,7 +15,7 @@ This Android app displays various details about your device such as the device n
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](screenshots/screenshot1.jpeg)
 
 ## Built With
 
