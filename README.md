@@ -13,6 +13,10 @@ This Android app displays various details about your device such as the device n
 - Displays device name, model, manufacturer, OS version, etc.
 - Provides an easy-to-read interface to view device details.
 
+## Download the App 👇
+
+- ![Download](app/build/outputs/apk/debug/app-debug.apk)
+
 ## Screenshots
 
 
